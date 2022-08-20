@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f3e2f39f;
+    position: absolute;
+}
+
+.tab{
+    border: 1px solid red;
+    background-color: azure;
+    width: 1150px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
